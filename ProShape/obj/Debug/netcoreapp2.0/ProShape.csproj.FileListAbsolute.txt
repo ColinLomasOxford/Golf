@@ -1,0 +1,11 @@
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\bin\Debug\netcoreapp2.0\ProShape.deps.json
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\bin\Debug\netcoreapp2.0\ProShape.runtimeconfig.json
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\bin\Debug\netcoreapp2.0\ProShape.runtimeconfig.dev.json
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\bin\Debug\netcoreapp2.0\ProShape.dll
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\bin\Debug\netcoreapp2.0\ProShape.pdb
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\obj\Debug\netcoreapp2.0\ProShape.csprojAssemblyReference.cache
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\obj\Debug\netcoreapp2.0\ProShape.csproj.CoreCompileInputs.cache
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\obj\Debug\netcoreapp2.0\ProShape.AssemblyInfoInputs.cache
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\obj\Debug\netcoreapp2.0\ProShape.AssemblyInfo.cs
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\obj\Debug\netcoreapp2.0\ProShape.dll
+C:\Users\jms38722\Documents\Golf\Golf Test\ProShape\obj\Debug\netcoreapp2.0\ProShape.pdb

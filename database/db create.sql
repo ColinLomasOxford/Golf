@@ -226,3 +226,13 @@ CREATE TABLE SGShots
   WindId integer,
   SGOutCome integer
 )
+
+CREATE TABLE RangeShots
+(
+  id serial PRIMARY KEY,
+	SessionID integer,
+  ClubId integer,
+  IntendedShapeId integer,
+  ActualShapeId integer,
+  StrikeId integer
+);

@@ -205,6 +205,28 @@ insert into TeeShots
   ShotTypeId, WindId, TeeShotOutCome)
   values (1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 
+delete from rangeshots;
+insert into rangeshots
+(
+  SessionID,  ClubId, IntendedShapeId, ActualShapeId, StrikeId
+)
+values
+(
+	1, 3, 2, 2, 3
+)
+
+select s3.id as sessionId, s3.name as sessionName,
+	c.id as clubId, c.name as ClubName,
+	i1.id as IntendedShapeId, i1.name as IntendedShapeName,
+	a1.id as ActualShapeId, a1.name as ActualShapeName,
+	s1.id as StrikeId, s1.name as StrikeName
+from rangeshots t
+inner join Sessions s3 on s3.id = t.sessionid
+inner join Club c on c.id = t.ClubId
+inner join IntendedShape i1 on i1.id = t.IntendedShapeId
+inner join ActualShape a1 on a1.id = t.ActualShapeId 
+inner join Strike s1 on s1.id = t.StrikeId
+
 select s3.id as sessionId, s3.name as sessionName,
 	c.id as clubId, c.name as ClubName,
 	i1.id as IntendedShapeId, i1.name as IntendedShapeName,
